@@ -1,9 +1,9 @@
 # Estimation de la note d'un commentaire avec Mistral.ai, XGBoost et TensorFlow
 
-<center>
+<p align="center">
     <img src="https://vectorseek.com/wp-content/uploads/2023/12/Mistral-AI-Icon-Logo-Vector.svg-.png" alt="Mistral.ai" width="40" style="margin-right: 20px;" align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="35" align="center">
-</center>
+</p>
 
 Ce dépôt contient un notebook Jupyter qui explore la possibilité d'utiliser les embeddings fournies par Mistral.ai pour prédire la note associée à un commentaire. Le notebook utilise XGBoost et TensorFlow comme méthodes d'entraînement du modèle de prédiction.
 
@@ -27,15 +27,15 @@ Une fois les embeddings récupérées, nous utilisons deux méthodes distinctes 
 
 **XGBoost** est un algorithme de gradient boosting qui a fait ses preuves dans de nombreux domaines d'application, notamment pour la classification et la régression.
 
-<center>
+<p align="center">
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdzone.com%2Fstorage%2Ftemp%2F13069527-boosting-algo.png&f=1&nofb=1&ipt=1ac6f470930257e0fb83997b0768a166f0c2b93a8ecd29dfc184c95efd1e786d&ipo=images" alt="XGBoost" width="500">
-</center>
+</p>
 
 **TensorFlow** est une bibliothèque open source pour l'apprentissage automatique qui permet de créer des réseaux de neurones profonds et complexes.
 
-<center>
+<p align="center">
     <img src="https://s3.amazonaws.com/stackabuse/media/intro-to-neural-networks-scikit-learn-3.png" alt="neural network" width="300">
-</center>
+</p>
 
 ## Conclusion
 
